@@ -5,6 +5,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 import MenuSection from '../components/MenuSection.vue'
 import TeamSection from '../components/TeamSection.vue'
 import TheReservation from '../components/TheReservation.vue'
+import NewsSection from '../components/NewsSection.vue'
 </script>
 
 <template>
@@ -15,5 +16,6 @@ import TheReservation from '../components/TheReservation.vue'
     <MenuSection />
     <TeamSection />
     <TheReservation />
+    <NewsSection />
   </main>
 </template>

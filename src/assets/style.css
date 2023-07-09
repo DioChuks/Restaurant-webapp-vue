@@ -361,6 +361,31 @@ section{
     font-weight: 300;
 }
 /* reservation style end */
+/* blog style start */
+.blog .box-container .box{
+    background: #fff;
+}
+.blog .content{
+    text-align: left;
+    position: relative;
+}
+.blog .content h3,
+.blog .content p,
+.blog .content a{
+    color: #333!important;
+}
+.blog .content a{
+    font-size: 14px;
+    display: inline-block;
+    padding-top: 1rem;
+    text-decoration: underline;
+}
+.blog .content img{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+/* blog style end */
 
 /* media query */
 @media (max-width: 991px){
@@ -425,5 +450,15 @@ section{
     }
     .welcome .box-container .box{
         width: 100%;
+    }
+    /* reservation  */
+    .reservation .image{
+        width: 0;
+    }
+    .reservation .form{
+        width: 100%;
+    }
+    .reservation .form .form-holder{
+        display: block;
     }
 }
