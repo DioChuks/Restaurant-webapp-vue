@@ -8,12 +8,12 @@
       <img src="../assets/pngtree-removebg-preview.png" alt="logo" />
     </a>
     <nav class="navbar">
-      <a href="" class="active">Home</a>
-      <a href="">About</a>
-      <a href="">Menu</a>
-      <a href="">Team</a>
-      <a href="">Reservation</a>
-      <a href="">Blog</a>
+      <a href="#home" class="active">Home</a>
+      <a href="#about">About</a>
+      <a href="#menu">Menu</a>
+      <a href="#team">Team</a>
+      <a href="#reservation">Reservation</a>
+      <a href="#blog">Blog</a>
     </nav>
     <div class="icons">
       <i class="fas fa-bars" id="menu"></i>

@@ -17,7 +17,41 @@
                         <span>master chef</span>
                         <ul>
                             <li><a href=""><i class="fa-brands fa-instagram"></i></a></li>
-                            <li><a href=""><i class="fa-brands fa-twiiter"></i></a></li>
+                            <li><a href=""><i class="fa-brands fa-twitter"></i></a></li>
+                            <li><a href=""><i class="fa-brands fa-whatsapp"></i></a></li>
+                            <li><a href=""><i class="fa-brands fa-linkedin-in"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="image">
+                    <img src="../assets/our-chef-2.jpg" alt="our-chef">
+                </div>
+                <div class="chef-info">
+                    <div>
+                        <h3>Corol rowson</h3>
+                        <span>master chef</span>
+                        <ul>
+                            <li><a href=""><i class="fa-brands fa-instagram"></i></a></li>
+                            <li><a href=""><i class="fa-brands fa-twitter"></i></a></li>
+                            <li><a href=""><i class="fa-brands fa-whatsapp"></i></a></li>
+                            <li><a href=""><i class="fa-brands fa-linkedin-in"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="image">
+                    <img src="../assets/our-chef-3.jpg" alt="our-chef">
+                </div>
+                <div class="chef-info">
+                    <div>
+                        <h3>Taylor mccoy</h3>
+                        <span>master chef</span>
+                        <ul>
+                            <li><a href=""><i class="fa-brands fa-instagram"></i></a></li>
+                            <li><a href=""><i class="fa-brands fa-twitter"></i></a></li>
                             <li><a href=""><i class="fa-brands fa-whatsapp"></i></a></li>
                             <li><a href=""><i class="fa-brands fa-linkedin-in"></i></a></li>
                         </ul>
