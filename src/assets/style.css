@@ -386,6 +386,83 @@ section{
     bottom: 0;
 }
 /* blog style end */
+/* footer style start */
+.footer{
+    background: #333;
+    text-align: center;
+    color: #b2b2b2;
+    font-size: 1.3rem;
+}
+.footer .container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(30rem,2fr));
+    color: #b2b2b2;
+    grid-gap: 1rem;
+    padding: 4rem 0;
+    border-bottom: 1px solid #b2b2b2;
+}
+.footer .container div{
+    padding: 0 7rem;
+}
+.footer .container h3{
+    color: var(--light-color);
+    font-size: 1.5rem;
+    padding-bottom: .8rem;
+}
+.footer .container input{
+    width: 100%;
+    color: #fff;
+    border: 1px solid #b2b2b2;
+    padding: .5rem .8rem;
+    background: transparent;
+    border-radius: 20px;
+}
+.footer .container ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.footer .container ul li a{
+    color: var(--light-color);
+    margin-left: 10px;
+    font-size: 18px;
+}
+.footer .container span{
+    padding-bottom: 2rem;
+}
+.footer .container span a{
+    display: block;
+    justify-content: center;
+    text-decoration: underline;
+    color: #fff;
+    gap: 15px;
+}
+.footer .container span a:hover{
+    color: #cd7cc4;
+}
+/* footer style end */
+/* custom scroll bar */
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-track{
+    background: var(--darkpurple);
+}
+::-webkit-scrollbar-thumb{
+    background: var(--light-color);
+}
+/* jump to top */
+.topbtn{
+    position: fixed;
+    right: 2%;
+    bottom: 10%;
+    width: 30px;
+    height: 30px;
+    background: var(--light-color);
+    color: #fff;
+    cursor: pointer;
+}
 
 /* media query */
 @media (max-width: 991px){

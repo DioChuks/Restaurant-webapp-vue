@@ -6,6 +6,7 @@ import MenuSection from '../components/MenuSection.vue'
 import TeamSection from '../components/TeamSection.vue'
 import TheReservation from '../components/TheReservation.vue'
 import NewsSection from '../components/NewsSection.vue'
+import TheFooter from '../components/TheFooter.vue'
 </script>
 
 <template>
@@ -17,5 +18,6 @@ import NewsSection from '../components/NewsSection.vue'
     <TeamSection />
     <TheReservation />
     <NewsSection />
+    <TheFooter />
   </main>
 </template>
