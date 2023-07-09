@@ -4,6 +4,7 @@ import SliderItem from '../components/SliderItem.vue'
 import TheWelcome from '../components/TheWelcome.vue'
 import MenuSection from '../components/MenuSection.vue'
 import TeamSection from '../components/TeamSection.vue'
+import TheReservation from '../components/TheReservation.vue'
 </script>
 
 <template>
@@ -13,5 +14,6 @@ import TeamSection from '../components/TeamSection.vue'
     <TheWelcome />
     <MenuSection />
     <TeamSection />
+    <TheReservation />
   </main>
 </template>
