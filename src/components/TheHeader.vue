@@ -10,7 +10,7 @@
     <nav class="navbar">
       <a href="#home" class="active">Home</a>
       <a href="#about">About</a>
-      <a href="#menu">Menu</a>
+      <a href="#menu2">Menu</a>
       <a href="#team">Team</a>
       <a href="#reservation">Reservation</a>
       <a href="#blog">Blog</a>

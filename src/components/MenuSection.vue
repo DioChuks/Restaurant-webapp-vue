@@ -1,7 +1,7 @@
 <script>
 </script>
 <template>
-    <section class="our-menu" id="menu">
+    <section class="our-menu" id="menu2">
         <h1 class="heading">our food menu</h1>
         <center>
             <h3 class="sub-heading"> ~ see what we offer ~ </h3>
